@@ -1,1 +1,9 @@
+Macro priorities:
+- grid evolving step
+- grid parallel
+- grid initialization
+
+
+Macro extras:
+- hue averaging
 
